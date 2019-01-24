@@ -43,6 +43,7 @@ mix.autoload({
 
 mix.extract(
     [
+        "core",
         // "jquery-mask-plugin",
         // 'bootstrap-datepicker',
         // "bootstrap-sass",

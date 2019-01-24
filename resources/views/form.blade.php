@@ -923,47 +923,56 @@
                 </script>
             </div>
             <div class="col-lg-4">
-                <div class="card">
+                <!-- <div class="card">
                     <div class="card-header">
                         <h3 class="card-title">Input mask</h3>
                     </div>
                     <div class="card-body">
                         <div class="form-group">
                             <label class="form-label">Date</label>
-                            <input type="text" name="field-name" class="form-control" data-mask="00/00/0000" data-mask-clearifnotmatch="true" placeholder="00/00/0000" />
+                            <input id="date-field" type="text" name="field-name" class="form-control" data-mask="00/00/0000" />
                         </div>
                         <div class="form-group">
                             <label class="form-label">Hour</label>
-                            <input type="text" name="field-name" class="form-control" data-mask="00:00:00" data-mask-clearifnotmatch="true" placeholder="00:00:00" />
+                            <input id="time-field" type="text" name="time-field" class="form-control date" />
                         </div>
                         <div class="form-group">
                             <label class="form-label">Date & Hour</label>
-                            <input type="text" name="field-name" class="form-control" data-mask="00/00/0000 00:00:00" data-mask-clearifnotmatch="true" placeholder="00/00/0000 00:00:00" />
+                            <input id="date-time-field" type="text" name="date-time-field" class="form-control" />
                         </div>
                         <div class="form-group">
                             <label class="form-label">ZIP Code</label>
-                            <input type="text" name="field-name" class="form-control" data-mask="00000-000" data-mask-clearifnotmatch="true" placeholder="00000-000" />
+                            <input id="zip-field" type="text" name="zip-field" class="form-control" />
                         </div>
                         <div class="form-group">
                             <label class="form-label">Money</label>
-                            <input type="text" name="field-name" class="form-control" data-mask="000.000.000.000.000,00" data-mask-reverse="true" />
+                            <input id="money-field" type="text" name="money-field" class="form-control" />
                         </div>
                         <div class="form-group">
                             <label class="form-label">Telephone</label>
-                            <input type="text" name="field-name" class="form-control" data-mask="0000-0000" data-mask-clearifnotmatch="true" placeholder="0000-0000" />
+                            <input id="telephone-field" type="text" name="telephone-field" class="form-control" />
                         </div>
                         <div class="form-group">
                             <label class="form-label">Telephone with Code Area</label>
-                            <input type="text" name="field-name" class="form-control" data-mask="(00) 0000-0000" data-mask-clearifnotmatch="true" />
+                            <input id="telephone-area-field" type="text" name="telephone-area-field" class="form-control" />
                         </div>
                         <div class="form-group">
                             <label class="form-label">IP Address</label>
-                            <input type="text" name="field-name" class="form-control" data-mask="099.099.099.099" data-mask-clearifnotmatch="true" placeholder="000.000.000.000" />
+                            <input id="ip-field" type="text" name="ip-field" class="form-control" />
                         </div>
                     </div>
-                </div>
+                </div> -->
             <script>
-            // require(['input-mask']);
+            // $(document).ready(function(){
+                // $('#date-field').mask("00/00/0000", {placeholder: "00/00/0000"});
+                // $('#time-field').mask("00:00:00", {placeholder: "00:00:00"});
+                // $('#date-time-field').mask("00/00/0000 00:00:00", {placeholder: "00/00/0000 00:00:00"});
+                // $('#zip-field').mask("00000-000", {placeholder: "00000-000"});
+                // $('#money-field').mask("000.000.000.000.000,00");
+                // $('#telephone-field').mask("0000-0000", {placeholder: "0000-0000"});
+                // $('#telephone-area-field').mask("(00) 0000-0000");
+                // $('#ip-field').mask("099.099.099.099", {placeholder: "000.000.000.000"});
+            // });
             </script>
                 <div class="card">
                     <div class="card-header">
@@ -1065,10 +1074,12 @@
                             <div class="col-md-12">
                                 <div class="form-group mb-0">
                                     <label class="form-label">About Me</label>
-                                    <textarea rows="5" class="form-control" placeholder="Here can be your description" value="Mike">Oh so, your weak rhyme
-                                    You doubt I'll bother, reading into it
-                                    I'll probably won't, left to my own devices
-                                    But that's the difference in our opinions.</textarea>
+                                    <textarea rows="5" class="form-control" placeholder="Here can be your description" value="Mike">
+Oh so, your weak rhyme
+You doubt I'll bother, reading into it
+I'll probably won't, left to my own devices
+But that's the difference in our opinions.
+                                    </textarea>
                                 </div>
                             </div>
                         </div>

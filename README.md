@@ -6,7 +6,7 @@ Recommended to new fresh laravel project
 
 2. Install package dependencies for tabler-ui
 
-    > npm install --save-dev tabler-ui bootstrap-sass font-awesome selectize
+    > npm install --save-dev tabler-ui bootstrap-sass font-awesome selectize jquery-mask-plugin
 
 3. Copy and paste folder on zipped files. Replace existing files and merge existing folders
 

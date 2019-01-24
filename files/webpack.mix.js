@@ -11,6 +11,19 @@ const mix = require("laravel-mix");
  |
  */
 
+mix.webpackConfig({
+    resolve: {
+        alias: {
+            // "circle-progress": "jquery-circle-progress",
+            core: path.resolve(
+                __dirname,
+                "node_modules/tabler-ui/dist/assets/js/core.js"
+            )
+            // "vector-map": "jvectormap"
+        }
+    }
+});
+
 mix.js("resources/js/app.js", "public/js");
 
 mix.sass("resources/sass/app.scss", "public/css");
@@ -30,13 +43,14 @@ mix.autoload({
 
 mix.extract(
     [
+        // "jquery-mask-plugin",
         // 'bootstrap-datepicker',
-        "bootstrap-sass",
+        // "bootstrap-sass",
         // 'chart.js',
         // 'jquery-circle-progress',
         // 'jvectormap',
         // 'moment',
-        // 'requirejs/require',
+        // "requirejs/require",
         // 'select2',
         "selectize"
         // 'sparkline',

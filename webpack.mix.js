@@ -24,25 +24,23 @@ mix.scripts(
     "public/js/c3.js"
 );
 
+mix.autoload({
+    jquery: ["$", "jQuery", "jquery", "window.jQuery"]
+});
+
 mix.extract(
     [
-        "lodash",
-        "popper.js",
-        //   "bootstrap",
         // 'bootstrap-datepicker',
-        "bootstrap-sass",
+        // "bootstrap-sass",
         // 'chart.js',
-        // 'd3',
-        "jquery",
         // 'jquery-circle-progress',
         // 'jvectormap',
         // 'moment',
         // 'requirejs/require',
         // 'select2',
-        "selectize",
+        "selectize"
         // 'sparkline',
-        // 'tablesorter',
-        "vue"
+        // 'tablesorter'
     ],
     "public/js/vendor.js"
 );

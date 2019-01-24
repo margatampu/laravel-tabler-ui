@@ -855,10 +855,10 @@
                                 <div class="form-group">
                                     <label class="form-label">Countries</label>
                                     <select name="country" id="select-countries" class="form-control custom-select">
-                                        <option value="br" data-data='{"image": "./assets/images/flags/br.svg"}'>Brazil</option>
-                                        <option value="cz" data-data='{"image": "./assets/images/flags/cz.svg"}'>Czech Republic</option>
-                                        <option value="de" data-data='{"image": "./assets/images/flags/de.svg"}'>Germany</option>
-                                        <option value="pl" data-data='{"image": "./assets/images/flags/pl.svg"}' selected>Poland</option>
+                                        <option value="br" data-data='{"image": "./images/vendor/tabler-ui/src/flags/br.svg"}'>Brazil</option>
+                                        <option value="cz" data-data='{"image": "./images/vendor/tabler-ui/src/flags/cz.svg"}'>Czech Republic</option>
+                                        <option value="de" data-data='{"image": "./images/vendor/tabler-ui/src/flags/de.svg"}'>Germany</option>
+                                        <option value="pl" data-data='{"image": "./images/vendor/tabler-ui/src/flags/pl.svg"}' selected>Poland</option>
                                     </select>
                                 </div>
                             </div>

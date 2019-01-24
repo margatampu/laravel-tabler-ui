@@ -317,7 +317,7 @@
                             <i class="fe fe-dollar-sign"></i>
                         </span>
                         <div>
-                            <h4 class="m-0"><a href="javascript:void(0)">132 <small>Sales</small></a></h4>
+                            <h4 class="m-0"><a href="#">132 <small>Sales</small></a></h4>
                             <small class="text-muted">12 waiting payments</small>
                         </div>
                     </div>
@@ -331,7 +331,7 @@
                             <i class="fe fe-shopping-cart"></i>
                         </span>
                         <div>
-                            <h4 class="m-0"><a href="javascript:void(0)">78 <small>Orders</small></a></h4>
+                            <h4 class="m-0"><a href="#">78 <small>Orders</small></a></h4>
                             <small class="text-muted">32 shipped</small>
                         </div>
                     </div>
@@ -345,7 +345,7 @@
                             <i class="fe fe-users"></i>
                         </span>
                         <div>
-                            <h4 class="m-0"><a href="javascript:void(0)">1,352 <small>Members</small></a></h4>
+                            <h4 class="m-0"><a href="#">1,352 <small>Members</small></a></h4>
                             <small class="text-muted">163 registered today</small>
                         </div>
                     </div>
@@ -359,7 +359,7 @@
                             <i class="fe fe-message-square"></i>
                         </span>
                         <div>
-                            <h4 class="m-0"><a href="javascript:void(0)">132 <small>Comments</small></a></h4>
+                            <h4 class="m-0"><a href="#">132 <small>Comments</small></a></h4>
                             <small class="text-muted">16 waiting</small>
                         </div>
                     </div>
@@ -381,7 +381,7 @@
                                 <small class="d-block text-muted">3 days ago</small>
                             </div>
                             <div class="ml-auto text-muted">
-                                <a href="javascript:void(0)" class="icon d-none d-md-inline-block ml-3"><i class="fe fe-heart mr-1"></i></a>
+                                <a href="#" class="icon d-none d-md-inline-block ml-3"><i class="fe fe-heart mr-1"></i></a>
                             </div>
                         </div>
                     </div>
@@ -400,7 +400,7 @@
                                 <small class="d-block text-muted">3 days ago</small>
                             </div>
                             <div class="ml-auto text-muted">
-                                <a href="javascript:void(0)" class="icon d-none d-md-inline-block ml-3"><i class="fe fe-heart mr-1"></i></a>
+                                <a href="#" class="icon d-none d-md-inline-block ml-3"><i class="fe fe-heart mr-1"></i></a>
                             </div>
                         </div>
                     </div>
@@ -465,13 +465,13 @@
                                     </td>
                                     <td class="text-center">
                                         <div class="item-action dropdown">
-                                        <a href="javascript:void(0)" data-toggle="dropdown" class="icon"><i class="fe fe-more-vertical"></i></a>
+                                        <a href="#" data-toggle="dropdown" class="icon"><i class="fe fe-more-vertical"></i></a>
                                         <div class="dropdown-menu dropdown-menu-right">
-                                            <a href="javascript:void(0)" class="dropdown-item"><i class="dropdown-icon fe fe-tag"></i> Action </a>
-                                            <a href="javascript:void(0)" class="dropdown-item"><i class="dropdown-icon fe fe-edit-2"></i> Another action </a>
-                                            <a href="javascript:void(0)" class="dropdown-item"><i class="dropdown-icon fe fe-message-square"></i> Something else here</a>
+                                            <a href="#" class="dropdown-item"><i class="dropdown-icon fe fe-tag"></i> Action </a>
+                                            <a href="#" class="dropdown-item"><i class="dropdown-icon fe fe-edit-2"></i> Another action </a>
+                                            <a href="#" class="dropdown-item"><i class="dropdown-icon fe fe-message-square"></i> Something else here</a>
                                             <div class="dropdown-divider"></div>
-                                            <a href="javascript:void(0)" class="dropdown-item"><i class="dropdown-icon fe fe-link"></i> Separated link</a>
+                                            <a href="#" class="dropdown-item"><i class="dropdown-icon fe fe-link"></i> Separated link</a>
                                         </div>
                                         </div>
                                     </td>
@@ -516,13 +516,13 @@
                                     </td>
                                     <td class="text-center">
                                         <div class="item-action dropdown">
-                                        <a href="javascript:void(0)" data-toggle="dropdown" class="icon"><i class="fe fe-more-vertical"></i></a>
+                                        <a href="#" data-toggle="dropdown" class="icon"><i class="fe fe-more-vertical"></i></a>
                                         <div class="dropdown-menu dropdown-menu-right">
-                                            <a href="javascript:void(0)" class="dropdown-item"><i class="dropdown-icon fe fe-tag"></i> Action </a>
-                                            <a href="javascript:void(0)" class="dropdown-item"><i class="dropdown-icon fe fe-edit-2"></i> Another action </a>
-                                            <a href="javascript:void(0)" class="dropdown-item"><i class="dropdown-icon fe fe-message-square"></i> Something else here</a>
+                                            <a href="#" class="dropdown-item"><i class="dropdown-icon fe fe-tag"></i> Action </a>
+                                            <a href="#" class="dropdown-item"><i class="dropdown-icon fe fe-edit-2"></i> Another action </a>
+                                            <a href="#" class="dropdown-item"><i class="dropdown-icon fe fe-message-square"></i> Something else here</a>
                                             <div class="dropdown-divider"></div>
-                                            <a href="javascript:void(0)" class="dropdown-item"><i class="dropdown-icon fe fe-link"></i> Separated link</a>
+                                            <a href="#" class="dropdown-item"><i class="dropdown-icon fe fe-link"></i> Separated link</a>
                                         </div>
                                         </div>
                                     </td>
@@ -567,13 +567,13 @@
                                     </td>
                                     <td class="text-center">
                                         <div class="item-action dropdown">
-                                        <a href="javascript:void(0)" data-toggle="dropdown" class="icon"><i class="fe fe-more-vertical"></i></a>
+                                        <a href="#" data-toggle="dropdown" class="icon"><i class="fe fe-more-vertical"></i></a>
                                         <div class="dropdown-menu dropdown-menu-right">
-                                            <a href="javascript:void(0)" class="dropdown-item"><i class="dropdown-icon fe fe-tag"></i> Action </a>
-                                            <a href="javascript:void(0)" class="dropdown-item"><i class="dropdown-icon fe fe-edit-2"></i> Another action </a>
-                                            <a href="javascript:void(0)" class="dropdown-item"><i class="dropdown-icon fe fe-message-square"></i> Something else here</a>
+                                            <a href="#" class="dropdown-item"><i class="dropdown-icon fe fe-tag"></i> Action </a>
+                                            <a href="#" class="dropdown-item"><i class="dropdown-icon fe fe-edit-2"></i> Another action </a>
+                                            <a href="#" class="dropdown-item"><i class="dropdown-icon fe fe-message-square"></i> Something else here</a>
                                             <div class="dropdown-divider"></div>
-                                            <a href="javascript:void(0)" class="dropdown-item"><i class="dropdown-icon fe fe-link"></i> Separated link</a>
+                                            <a href="#" class="dropdown-item"><i class="dropdown-icon fe fe-link"></i> Separated link</a>
                                         </div>
                                         </div>
                                     </td>
@@ -618,13 +618,13 @@
                                     </td>
                                     <td class="text-center">
                                         <div class="item-action dropdown">
-                                        <a href="javascript:void(0)" data-toggle="dropdown" class="icon"><i class="fe fe-more-vertical"></i></a>
+                                        <a href="#" data-toggle="dropdown" class="icon"><i class="fe fe-more-vertical"></i></a>
                                         <div class="dropdown-menu dropdown-menu-right">
-                                            <a href="javascript:void(0)" class="dropdown-item"><i class="dropdown-icon fe fe-tag"></i> Action </a>
-                                            <a href="javascript:void(0)" class="dropdown-item"><i class="dropdown-icon fe fe-edit-2"></i> Another action </a>
-                                            <a href="javascript:void(0)" class="dropdown-item"><i class="dropdown-icon fe fe-message-square"></i> Something else here</a>
+                                            <a href="#" class="dropdown-item"><i class="dropdown-icon fe fe-tag"></i> Action </a>
+                                            <a href="#" class="dropdown-item"><i class="dropdown-icon fe fe-edit-2"></i> Another action </a>
+                                            <a href="#" class="dropdown-item"><i class="dropdown-icon fe fe-message-square"></i> Something else here</a>
                                             <div class="dropdown-divider"></div>
-                                            <a href="javascript:void(0)" class="dropdown-item"><i class="dropdown-icon fe fe-link"></i> Separated link</a>
+                                            <a href="#" class="dropdown-item"><i class="dropdown-icon fe fe-link"></i> Separated link</a>
                                         </div>
                                         </div>
                                     </td>
@@ -669,13 +669,13 @@
                                     </td>
                                     <td class="text-center">
                                         <div class="item-action dropdown">
-                                        <a href="javascript:void(0)" data-toggle="dropdown" class="icon"><i class="fe fe-more-vertical"></i></a>
+                                        <a href="#" data-toggle="dropdown" class="icon"><i class="fe fe-more-vertical"></i></a>
                                         <div class="dropdown-menu dropdown-menu-right">
-                                            <a href="javascript:void(0)" class="dropdown-item"><i class="dropdown-icon fe fe-tag"></i> Action </a>
-                                            <a href="javascript:void(0)" class="dropdown-item"><i class="dropdown-icon fe fe-edit-2"></i> Another action </a>
-                                            <a href="javascript:void(0)" class="dropdown-item"><i class="dropdown-icon fe fe-message-square"></i> Something else here</a>
+                                            <a href="#" class="dropdown-item"><i class="dropdown-icon fe fe-tag"></i> Action </a>
+                                            <a href="#" class="dropdown-item"><i class="dropdown-icon fe fe-edit-2"></i> Another action </a>
+                                            <a href="#" class="dropdown-item"><i class="dropdown-icon fe fe-message-square"></i> Something else here</a>
                                             <div class="dropdown-divider"></div>
-                                            <a href="javascript:void(0)" class="dropdown-item"><i class="dropdown-icon fe fe-link"></i> Separated link</a>
+                                            <a href="#" class="dropdown-item"><i class="dropdown-icon fe fe-link"></i> Separated link</a>
                                         </div>
                                         </div>
                                     </td>
@@ -720,13 +720,13 @@
                                     </td>
                                     <td class="text-center">
                                         <div class="item-action dropdown">
-                                        <a href="javascript:void(0)" data-toggle="dropdown" class="icon"><i class="fe fe-more-vertical"></i></a>
+                                        <a href="#" data-toggle="dropdown" class="icon"><i class="fe fe-more-vertical"></i></a>
                                         <div class="dropdown-menu dropdown-menu-right">
-                                            <a href="javascript:void(0)" class="dropdown-item"><i class="dropdown-icon fe fe-tag"></i> Action </a>
-                                            <a href="javascript:void(0)" class="dropdown-item"><i class="dropdown-icon fe fe-edit-2"></i> Another action </a>
-                                            <a href="javascript:void(0)" class="dropdown-item"><i class="dropdown-icon fe fe-message-square"></i> Something else here</a>
+                                            <a href="#" class="dropdown-item"><i class="dropdown-icon fe fe-tag"></i> Action </a>
+                                            <a href="#" class="dropdown-item"><i class="dropdown-icon fe fe-edit-2"></i> Another action </a>
+                                            <a href="#" class="dropdown-item"><i class="dropdown-icon fe fe-message-square"></i> Something else here</a>
                                             <div class="dropdown-divider"></div>
-                                            <a href="javascript:void(0)" class="dropdown-item"><i class="dropdown-icon fe fe-link"></i> Separated link</a>
+                                            <a href="#" class="dropdown-item"><i class="dropdown-icon fe fe-link"></i> Separated link</a>
                                         </div>
                                         </div>
                                     </td>
@@ -771,13 +771,13 @@
                                     </td>
                                     <td class="text-center">
                                         <div class="item-action dropdown">
-                                        <a href="javascript:void(0)" data-toggle="dropdown" class="icon"><i class="fe fe-more-vertical"></i></a>
+                                        <a href="#" data-toggle="dropdown" class="icon"><i class="fe fe-more-vertical"></i></a>
                                         <div class="dropdown-menu dropdown-menu-right">
-                                            <a href="javascript:void(0)" class="dropdown-item"><i class="dropdown-icon fe fe-tag"></i> Action </a>
-                                            <a href="javascript:void(0)" class="dropdown-item"><i class="dropdown-icon fe fe-edit-2"></i> Another action </a>
-                                            <a href="javascript:void(0)" class="dropdown-item"><i class="dropdown-icon fe fe-message-square"></i> Something else here</a>
+                                            <a href="#" class="dropdown-item"><i class="dropdown-icon fe fe-tag"></i> Action </a>
+                                            <a href="#" class="dropdown-item"><i class="dropdown-icon fe fe-edit-2"></i> Another action </a>
+                                            <a href="#" class="dropdown-item"><i class="dropdown-icon fe fe-message-square"></i> Something else here</a>
                                             <div class="dropdown-divider"></div>
-                                            <a href="javascript:void(0)" class="dropdown-item"><i class="dropdown-icon fe fe-link"></i> Separated link</a>
+                                            <a href="#" class="dropdown-item"><i class="dropdown-icon fe fe-link"></i> Separated link</a>
                                         </div>
                                         </div>
                                     </td>
@@ -822,13 +822,13 @@
                                     </td>
                                     <td class="text-center">
                                         <div class="item-action dropdown">
-                                        <a href="javascript:void(0)" data-toggle="dropdown" class="icon"><i class="fe fe-more-vertical"></i></a>
+                                        <a href="#" data-toggle="dropdown" class="icon"><i class="fe fe-more-vertical"></i></a>
                                         <div class="dropdown-menu dropdown-menu-right">
-                                            <a href="javascript:void(0)" class="dropdown-item"><i class="dropdown-icon fe fe-tag"></i> Action </a>
-                                            <a href="javascript:void(0)" class="dropdown-item"><i class="dropdown-icon fe fe-edit-2"></i> Another action </a>
-                                            <a href="javascript:void(0)" class="dropdown-item"><i class="dropdown-icon fe fe-message-square"></i> Something else here</a>
+                                            <a href="#" class="dropdown-item"><i class="dropdown-icon fe fe-tag"></i> Action </a>
+                                            <a href="#" class="dropdown-item"><i class="dropdown-icon fe fe-edit-2"></i> Another action </a>
+                                            <a href="#" class="dropdown-item"><i class="dropdown-icon fe fe-message-square"></i> Something else here</a>
                                             <div class="dropdown-divider"></div>
-                                            <a href="javascript:void(0)" class="dropdown-item"><i class="dropdown-icon fe fe-link"></i> Separated link</a>
+                                            <a href="#" class="dropdown-item"><i class="dropdown-icon fe fe-link"></i> Separated link</a>
                                         </div>
                                         </div>
                                     </td>
@@ -937,19 +937,19 @@
                                 </div>
                                 <div class="col">
                                     <div>
-                                    <a href="javascript:void(0)" class="text-inherit">Amanda Hunt</a>
+                                    <a href="#" class="text-inherit">Amanda Hunt</a>
                                     </div>
                                     <small class="d-block item-except text-sm text-muted h-1x">amanda_hunt@example.com</small>
                                 </div>
                                 <div class="col-auto">
                                     <div class="item-action dropdown">
-                                    <a href="javascript:void(0)" data-toggle="dropdown" class="icon"><i class="fe fe-more-vertical"></i></a>
+                                    <a href="#" data-toggle="dropdown" class="icon"><i class="fe fe-more-vertical"></i></a>
                                     <div class="dropdown-menu dropdown-menu-right">
-                                        <a href="javascript:void(0)" class="dropdown-item"><i class="dropdown-icon fe fe-tag"></i> Action </a>
-                                        <a href="javascript:void(0)" class="dropdown-item"><i class="dropdown-icon fe fe-edit-2"></i> Another action </a>
-                                        <a href="javascript:void(0)" class="dropdown-item"><i class="dropdown-icon fe fe-message-square"></i> Something else here</a>
+                                        <a href="#" class="dropdown-item"><i class="dropdown-icon fe fe-tag"></i> Action </a>
+                                        <a href="#" class="dropdown-item"><i class="dropdown-icon fe fe-edit-2"></i> Another action </a>
+                                        <a href="#" class="dropdown-item"><i class="dropdown-icon fe fe-message-square"></i> Something else here</a>
                                         <div class="dropdown-divider"></div>
-                                        <a href="javascript:void(0)" class="dropdown-item"><i class="dropdown-icon fe fe-link"></i> Separated link</a>
+                                        <a href="#" class="dropdown-item"><i class="dropdown-icon fe fe-link"></i> Separated link</a>
                                     </div>
                                     </div>
                                 </div>
@@ -962,19 +962,19 @@
                                 </div>
                                 <div class="col">
                                     <div>
-                                    <a href="javascript:void(0)" class="text-inherit">Laura Weaver</a>
+                                    <a href="#" class="text-inherit">Laura Weaver</a>
                                     </div>
                                     <small class="d-block item-except text-sm text-muted h-1x">lauraweaver@example.com</small>
                                 </div>
                                 <div class="col-auto">
                                     <div class="item-action dropdown">
-                                    <a href="javascript:void(0)" data-toggle="dropdown" class="icon"><i class="fe fe-more-vertical"></i></a>
+                                    <a href="#" data-toggle="dropdown" class="icon"><i class="fe fe-more-vertical"></i></a>
                                     <div class="dropdown-menu dropdown-menu-right">
-                                        <a href="javascript:void(0)" class="dropdown-item"><i class="dropdown-icon fe fe-tag"></i> Action </a>
-                                        <a href="javascript:void(0)" class="dropdown-item"><i class="dropdown-icon fe fe-edit-2"></i> Another action </a>
-                                        <a href="javascript:void(0)" class="dropdown-item"><i class="dropdown-icon fe fe-message-square"></i> Something else here</a>
+                                        <a href="#" class="dropdown-item"><i class="dropdown-icon fe fe-tag"></i> Action </a>
+                                        <a href="#" class="dropdown-item"><i class="dropdown-icon fe fe-edit-2"></i> Another action </a>
+                                        <a href="#" class="dropdown-item"><i class="dropdown-icon fe fe-message-square"></i> Something else here</a>
                                         <div class="dropdown-divider"></div>
-                                        <a href="javascript:void(0)" class="dropdown-item"><i class="dropdown-icon fe fe-link"></i> Separated link</a>
+                                        <a href="#" class="dropdown-item"><i class="dropdown-icon fe fe-link"></i> Separated link</a>
                                     </div>
                                     </div>
                                 </div>
@@ -987,19 +987,19 @@
                                 </div>
                                 <div class="col">
                                     <div>
-                                    <a href="javascript:void(0)" class="text-inherit">Margaret Berry</a>
+                                    <a href="#" class="text-inherit">Margaret Berry</a>
                                     </div>
                                     <small class="d-block item-except text-sm text-muted h-1x">margaret88@example.com</small>
                                 </div>
                                 <div class="col-auto">
                                     <div class="item-action dropdown">
-                                    <a href="javascript:void(0)" data-toggle="dropdown" class="icon"><i class="fe fe-more-vertical"></i></a>
+                                    <a href="#" data-toggle="dropdown" class="icon"><i class="fe fe-more-vertical"></i></a>
                                     <div class="dropdown-menu dropdown-menu-right">
-                                        <a href="javascript:void(0)" class="dropdown-item"><i class="dropdown-icon fe fe-tag"></i> Action </a>
-                                        <a href="javascript:void(0)" class="dropdown-item"><i class="dropdown-icon fe fe-edit-2"></i> Another action </a>
-                                        <a href="javascript:void(0)" class="dropdown-item"><i class="dropdown-icon fe fe-message-square"></i> Something else here</a>
+                                        <a href="#" class="dropdown-item"><i class="dropdown-icon fe fe-tag"></i> Action </a>
+                                        <a href="#" class="dropdown-item"><i class="dropdown-icon fe fe-edit-2"></i> Another action </a>
+                                        <a href="#" class="dropdown-item"><i class="dropdown-icon fe fe-message-square"></i> Something else here</a>
                                         <div class="dropdown-divider"></div>
-                                        <a href="javascript:void(0)" class="dropdown-item"><i class="dropdown-icon fe fe-link"></i> Separated link</a>
+                                        <a href="#" class="dropdown-item"><i class="dropdown-icon fe fe-link"></i> Separated link</a>
                                     </div>
                                     </div>
                                 </div>
@@ -1012,19 +1012,19 @@
                                 </div>
                                 <div class="col">
                                     <div>
-                                    <a href="javascript:void(0)" class="text-inherit">Nancy Herrera</a>
+                                    <a href="#" class="text-inherit">Nancy Herrera</a>
                                     </div>
                                     <small class="d-block item-except text-sm text-muted h-1x">nancy_83@example.com</small>
                                 </div>
                                 <div class="col-auto">
                                     <div class="item-action dropdown">
-                                    <a href="javascript:void(0)" data-toggle="dropdown" class="icon"><i class="fe fe-more-vertical"></i></a>
+                                    <a href="#" data-toggle="dropdown" class="icon"><i class="fe fe-more-vertical"></i></a>
                                     <div class="dropdown-menu dropdown-menu-right">
-                                        <a href="javascript:void(0)" class="dropdown-item"><i class="dropdown-icon fe fe-tag"></i> Action </a>
-                                        <a href="javascript:void(0)" class="dropdown-item"><i class="dropdown-icon fe fe-edit-2"></i> Another action </a>
-                                        <a href="javascript:void(0)" class="dropdown-item"><i class="dropdown-icon fe fe-message-square"></i> Something else here</a>
+                                        <a href="#" class="dropdown-item"><i class="dropdown-icon fe fe-tag"></i> Action </a>
+                                        <a href="#" class="dropdown-item"><i class="dropdown-icon fe fe-edit-2"></i> Another action </a>
+                                        <a href="#" class="dropdown-item"><i class="dropdown-icon fe fe-message-square"></i> Something else here</a>
                                         <div class="dropdown-divider"></div>
-                                        <a href="javascript:void(0)" class="dropdown-item"><i class="dropdown-icon fe fe-link"></i> Separated link</a>
+                                        <a href="#" class="dropdown-item"><i class="dropdown-icon fe fe-link"></i> Separated link</a>
                                     </div>
                                     </div>
                                 </div>
@@ -1037,19 +1037,19 @@
                                 </div>
                                 <div class="col">
                                     <div>
-                                    <a href="javascript:void(0)" class="text-inherit">Edward Larson</a>
+                                    <a href="#" class="text-inherit">Edward Larson</a>
                                     </div>
                                     <small class="d-block item-except text-sm text-muted h-1x">edward90@example.com</small>
                                 </div>
                                 <div class="col-auto">
                                     <div class="item-action dropdown">
-                                    <a href="javascript:void(0)" data-toggle="dropdown" class="icon"><i class="fe fe-more-vertical"></i></a>
+                                    <a href="#" data-toggle="dropdown" class="icon"><i class="fe fe-more-vertical"></i></a>
                                     <div class="dropdown-menu dropdown-menu-right">
-                                        <a href="javascript:void(0)" class="dropdown-item"><i class="dropdown-icon fe fe-tag"></i> Action </a>
-                                        <a href="javascript:void(0)" class="dropdown-item"><i class="dropdown-icon fe fe-edit-2"></i> Another action </a>
-                                        <a href="javascript:void(0)" class="dropdown-item"><i class="dropdown-icon fe fe-message-square"></i> Something else here</a>
+                                        <a href="#" class="dropdown-item"><i class="dropdown-icon fe fe-tag"></i> Action </a>
+                                        <a href="#" class="dropdown-item"><i class="dropdown-icon fe fe-edit-2"></i> Another action </a>
+                                        <a href="#" class="dropdown-item"><i class="dropdown-icon fe fe-message-square"></i> Something else here</a>
                                         <div class="dropdown-divider"></div>
-                                        <a href="javascript:void(0)" class="dropdown-item"><i class="dropdown-icon fe fe-link"></i> Separated link</a>
+                                        <a href="#" class="dropdown-item"><i class="dropdown-icon fe fe-link"></i> Separated link</a>
                                     </div>
                                     </div>
                                 </div>
@@ -1062,19 +1062,19 @@
                                 </div>
                                 <div class="col">
                                     <div>
-                                    <a href="javascript:void(0)" class="text-inherit">Joan Hanson</a>
+                                    <a href="#" class="text-inherit">Joan Hanson</a>
                                     </div>
                                     <small class="d-block item-except text-sm text-muted h-1x">joan.hanson@example.com</small>
                                 </div>
                                 <div class="col-auto">
                                     <div class="item-action dropdown">
-                                    <a href="javascript:void(0)" data-toggle="dropdown" class="icon"><i class="fe fe-more-vertical"></i></a>
+                                    <a href="#" data-toggle="dropdown" class="icon"><i class="fe fe-more-vertical"></i></a>
                                     <div class="dropdown-menu dropdown-menu-right">
-                                        <a href="javascript:void(0)" class="dropdown-item"><i class="dropdown-icon fe fe-tag"></i> Action </a>
-                                        <a href="javascript:void(0)" class="dropdown-item"><i class="dropdown-icon fe fe-edit-2"></i> Another action </a>
-                                        <a href="javascript:void(0)" class="dropdown-item"><i class="dropdown-icon fe fe-message-square"></i> Something else here</a>
+                                        <a href="#" class="dropdown-item"><i class="dropdown-icon fe fe-tag"></i> Action </a>
+                                        <a href="#" class="dropdown-item"><i class="dropdown-icon fe fe-edit-2"></i> Another action </a>
+                                        <a href="#" class="dropdown-item"><i class="dropdown-icon fe fe-message-square"></i> Something else here</a>
                                         <div class="dropdown-divider"></div>
-                                        <a href="javascript:void(0)" class="dropdown-item"><i class="dropdown-icon fe fe-link"></i> Separated link</a>
+                                        <a href="#" class="dropdown-item"><i class="dropdown-icon fe fe-link"></i> Separated link</a>
                                     </div>
                                     </div>
                                 </div>
@@ -1407,13 +1407,13 @@
                                     </td>
                                     <td>$887</td>
                                     <td class="text-right">
-                                    <a href="javascript:void(0)" class="btn btn-secondary btn-sm">Manage</a>
+                                    <a href="#" class="btn btn-secondary btn-sm">Manage</a>
                                     <div class="dropdown">
                                         <button class="btn btn-secondary btn-sm dropdown-toggle" data-toggle="dropdown">Actions</button>
                                     </div>
                                     </td>
                                     <td>
-                                    <a class="icon" href="javascript:void(0)">
+                                    <a class="icon" href="#">
                                         <i class="fe fe-edit"></i>
                                     </a>
                                     </td>
@@ -1435,13 +1435,13 @@
                                     </td>
                                     <td>$1200</td>
                                     <td class="text-right">
-                                    <a href="javascript:void(0)" class="btn btn-secondary btn-sm">Manage</a>
+                                    <a href="#" class="btn btn-secondary btn-sm">Manage</a>
                                     <div class="dropdown">
                                         <button class="btn btn-secondary btn-sm dropdown-toggle" data-toggle="dropdown">Actions</button>
                                     </div>
                                     </td>
                                     <td>
-                                    <a class="icon" href="javascript:void(0)">
+                                    <a class="icon" href="#">
                                         <i class="fe fe-edit"></i>
                                     </a>
                                     </td>
@@ -1463,13 +1463,13 @@
                                     </td>
                                     <td>$534</td>
                                     <td class="text-right">
-                                    <a href="javascript:void(0)" class="btn btn-secondary btn-sm">Manage</a>
+                                    <a href="#" class="btn btn-secondary btn-sm">Manage</a>
                                     <div class="dropdown">
                                         <button class="btn btn-secondary btn-sm dropdown-toggle" data-toggle="dropdown">Actions</button>
                                     </div>
                                     </td>
                                     <td>
-                                    <a class="icon" href="javascript:void(0)">
+                                    <a class="icon" href="#">
                                         <i class="fe fe-edit"></i>
                                     </a>
                                     </td>
@@ -1491,13 +1491,13 @@
                                     </td>
                                     <td>$1500</td>
                                     <td class="text-right">
-                                    <a href="javascript:void(0)" class="btn btn-secondary btn-sm">Manage</a>
+                                    <a href="#" class="btn btn-secondary btn-sm">Manage</a>
                                     <div class="dropdown">
                                         <button class="btn btn-secondary btn-sm dropdown-toggle" data-toggle="dropdown">Actions</button>
                                     </div>
                                     </td>
                                     <td>
-                                    <a class="icon" href="javascript:void(0)">
+                                    <a class="icon" href="#">
                                         <i class="fe fe-edit"></i>
                                     </a>
                                     </td>
@@ -1519,13 +1519,13 @@
                                     </td>
                                     <td>$648</td>
                                     <td class="text-right">
-                                    <a href="javascript:void(0)" class="btn btn-secondary btn-sm">Manage</a>
+                                    <a href="#" class="btn btn-secondary btn-sm">Manage</a>
                                     <div class="dropdown">
                                         <button class="btn btn-secondary btn-sm dropdown-toggle" data-toggle="dropdown">Actions</button>
                                     </div>
                                     </td>
                                     <td>
-                                    <a class="icon" href="javascript:void(0)">
+                                    <a class="icon" href="#">
                                         <i class="fe fe-edit"></i>
                                     </a>
                                     </td>
@@ -1547,13 +1547,13 @@
                                     </td>
                                     <td>$300</td>
                                     <td class="text-right">
-                                    <a href="javascript:void(0)" class="btn btn-secondary btn-sm">Manage</a>
+                                    <a href="#" class="btn btn-secondary btn-sm">Manage</a>
                                     <div class="dropdown">
                                         <button class="btn btn-secondary btn-sm dropdown-toggle" data-toggle="dropdown">Actions</button>
                                     </div>
                                     </td>
                                     <td>
-                                    <a class="icon" href="javascript:void(0)">
+                                    <a class="icon" href="#">
                                         <i class="fe fe-edit"></i>
                                     </a>
                                     </td>

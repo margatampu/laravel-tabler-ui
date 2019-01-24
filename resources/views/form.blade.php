@@ -191,10 +191,10 @@
                                             <button type="button" class="btn btn-primary">Action</button>
                                             <button data-toggle="dropdown" type="button" class="btn btn-primary dropdown-toggle"></button>
                                             <div class="dropdown-menu dropdown-menu-right">
-                                                <a class="dropdown-item" href="javascript:void(0)">News</a>
-                                                <a class="dropdown-item" href="javascript:void(0)">Messages</a>
+                                                <a class="dropdown-item" href="#">News</a>
+                                                <a class="dropdown-item" href="#">Messages</a>
                                                 <div class="dropdown-divider"></div>
-                                                <a class="dropdown-item" href="javascript:void(0)">Edit Profile</a>
+                                                <a class="dropdown-item" href="#">Edit Profile</a>
                                             </div>
                                         </div>
                                     </div>
@@ -725,11 +725,11 @@
                                             Action
                                             </button>
                                             <div class="dropdown-menu">
-                                                <a class="dropdown-item" href="javascript:void(0)">Action</a>
-                                                <a class="dropdown-item" href="javascript:void(0)">Another action</a>
-                                                <a class="dropdown-item" href="javascript:void(0)">Something else here</a>
+                                                <a class="dropdown-item" href="#">Action</a>
+                                                <a class="dropdown-item" href="#">Another action</a>
+                                                <a class="dropdown-item" href="#">Something else here</a>
                                                 <div role="separator" class="dropdown-divider"></div>
-                                                <a class="dropdown-item" href="javascript:void(0)">Separated link</a>
+                                                <a class="dropdown-item" href="#">Separated link</a>
                                             </div>
                                         </div>
                                         <input type="text" class="form-control" aria-label="Text input with dropdown button">
@@ -866,7 +866,7 @@
                     </div>
                     <div class="card-footer text-right">
                         <div class="d-flex">
-                            <a href="javascript:void(0)" class="btn btn-link">Cancel</a>
+                            <a href="#" class="btn btn-link">Cancel</a>
                             <button type="submit" class="btn btn-primary ml-auto">Send data</button>
                         </div>
                     </div>

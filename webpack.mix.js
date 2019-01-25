@@ -19,7 +19,6 @@ mix.webpackConfig({
                 __dirname,
                 "node_modules/tabler-ui/dist/assets/js/core.js"
             )
-            // "vector-map": "jvectormap"
         }
     }
 });
@@ -51,21 +50,7 @@ mix.autoload({
 });
 
 mix.extract(
-    [
-        "core",
-        // "jquery-mask-plugin",
-        // 'bootstrap-datepicker',
-        // "bootstrap-sass",
-        // 'chart.js',
-        "jquery-circle-progress",
-        // "jvectormap",
-        // 'moment',
-        // "requirejs/require",
-        // 'select2',
-        "selectize",
-        "sparkline"
-        // 'tablesorter'
-    ],
+    ["core", "jquery-circle-progress", "selectize", "sparkline"],
     "public/js/vendor.js"
 );
 

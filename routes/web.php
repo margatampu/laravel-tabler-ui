@@ -15,6 +15,18 @@ Route::get('/', function () {
     return view('index');
 })->name('home');
 
+Route::get('/cards', function () {
+    return view('card');
+})->name('card');
+
+Route::get('/charts', function () {
+    return view('chart');
+})->name('chart');
+
+Route::get('/prices', function () {
+    return view('price');
+})->name('price');
+
 Route::get('/forms', function () {
     return view('form');
 })->name('form');

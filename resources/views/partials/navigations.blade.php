@@ -6,9 +6,9 @@
         <li class="nav-item">
             <a href="#" class="nav-link" data-toggle="dropdown"><i class="fe fe-box"></i> Interface</a>
             <div class="dropdown-menu dropdown-menu-arrow">
-                <a href="./cards.html" class="dropdown-item ">Cards design</a>
-                <a href="./charts.html" class="dropdown-item ">Charts</a>
-                <a href="./pricing-cards.html" class="dropdown-item ">Pricing cards</a>
+                <a href="{{ route('card') }}" class="dropdown-item ">Cards design</a>
+                <a href="{{ route('chart') }}" class="dropdown-item ">Charts</a>
+                <a href="{{ route('price') }}" class="dropdown-item ">Pricing cards</a>
             </div>
         </li>
         <li class="nav-item dropdown">

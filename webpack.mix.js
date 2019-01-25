@@ -14,7 +14,7 @@ const mix = require("laravel-mix");
 mix.webpackConfig({
     resolve: {
         alias: {
-            // "circle-progress": "jquery-circle-progress",
+            "circle-progress": "jquery-circle-progress",
             core: path.resolve(
                 __dirname,
                 "node_modules/tabler-ui/dist/assets/js/core.js"
@@ -48,13 +48,13 @@ mix.extract(
         // 'bootstrap-datepicker',
         // "bootstrap-sass",
         // 'chart.js',
-        // 'jquery-circle-progress',
+        "jquery-circle-progress",
         // 'jvectormap',
         // 'moment',
         // "requirejs/require",
         // 'select2',
-        "selectize"
-        // 'sparkline',
+        "selectize",
+        "sparkline"
         // 'tablesorter'
     ],
     "public/js/vendor.js"

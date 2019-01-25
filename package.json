@@ -16,6 +16,7 @@
         "cross-env": "^5.1",
         "font-awesome": "^4.7.0",
         "jquery": "^3.2",
+        "jquery-circle-progress": "^1.2.2",
         "jquery-mask-plugin": "^1.14.15",
         "laravel-mix": "^4.0.7",
         "lodash": "^4.17.5",
@@ -24,6 +25,7 @@
         "sass": "^1.15.2",
         "sass-loader": "^7.1.0",
         "selectize": "^0.12.6",
+        "sparkline": "^0.2.0",
         "tabler-ui": "0.0.32",
         "vue": "^2.5.17",
         "vue-template-compiler": "^2.5.22"

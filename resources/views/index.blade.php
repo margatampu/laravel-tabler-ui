@@ -427,7 +427,7 @@
                             <tbody>
                                 <tr>
                                     <td class="text-center">
-                                        <div class="avatar d-block" style="background-image: url(demo/faces/female/26.jpg)">
+                                        <div class="avatar d-block" style="background-image: url(./demo/faces/female/26.jpg)">
                                         <span class="avatar-status bg-green"></span>
                                         </div>
                                     </td>
@@ -478,7 +478,7 @@
                                 </tr>
                                 <tr>
                                     <td class="text-center">
-                                        <div class="avatar d-block" style="background-image: url(demo/faces/female/17.jpg)">
+                                        <div class="avatar d-block" style="background-image: url(./demo/faces/female/17.jpg)">
                                         <span class="avatar-status bg-green"></span>
                                         </div>
                                     </td>
@@ -529,7 +529,7 @@
                                 </tr>
                                 <tr>
                                     <td class="text-center">
-                                        <div class="avatar d-block" style="background-image: url(demo/faces/female/21.jpg)">
+                                        <div class="avatar d-block" style="background-image: url(./demo/faces/female/21.jpg)">
                                         <span class="avatar-status bg-green"></span>
                                         </div>
                                     </td>
@@ -580,7 +580,7 @@
                                 </tr>
                                 <tr>
                                     <td class="text-center">
-                                        <div class="avatar d-block" style="background-image: url(demo/faces/male/32.jpg)">
+                                        <div class="avatar d-block" style="background-image: url(./demo/faces/male/32.jpg)">
                                         <span class="avatar-status bg-green"></span>
                                         </div>
                                     </td>
@@ -631,7 +631,7 @@
                                 </tr>
                                 <tr>
                                     <td class="text-center">
-                                        <div class="avatar d-block" style="background-image: url(demo/faces/female/12.jpg)">
+                                        <div class="avatar d-block" style="background-image: url(./demo/faces/female/12.jpg)">
                                         <span class="avatar-status bg-green"></span>
                                         </div>
                                     </td>
@@ -682,7 +682,7 @@
                                 </tr>
                                 <tr>
                                     <td class="text-center">
-                                        <div class="avatar d-block" style="background-image: url(demo/faces/female/4.jpg)">
+                                        <div class="avatar d-block" style="background-image: url(./demo/faces/female/4.jpg)">
                                         <span class="avatar-status bg-green"></span>
                                         </div>
                                     </td>
@@ -733,7 +733,7 @@
                                 </tr>
                                 <tr>
                                     <td class="text-center">
-                                        <div class="avatar d-block" style="background-image: url(demo/faces/female/27.jpg)">
+                                        <div class="avatar d-block" style="background-image: url(./demo/faces/female/27.jpg)">
                                         <span class="avatar-status bg-green"></span>
                                         </div>
                                     </td>
@@ -784,7 +784,7 @@
                                 </tr>
                                 <tr>
                                     <td class="text-center">
-                                        <div class="avatar d-block" style="background-image: url(demo/faces/male/20.jpg)">
+                                        <div class="avatar d-block" style="background-image: url(./demo/faces/male/20.jpg)">
                                         <span class="avatar-status bg-green"></span>
                                         </div>
                                     </td>
@@ -933,7 +933,7 @@
                             <li class="list-separated-item">
                                 <div class="row align-items-center">
                                 <div class="col-auto">
-                                    <span class="avatar avatar-md d-block" style="background-image: url(demo/faces/female/12.jpg)"></span>
+                                    <span class="avatar avatar-md d-block" style="background-image: url(./demo/faces/female/12.jpg)"></span>
                                 </div>
                                 <div class="col">
                                     <div>
@@ -958,7 +958,7 @@
                             <li class="list-separated-item">
                                 <div class="row align-items-center">
                                 <div class="col-auto">
-                                    <span class="avatar avatar-md d-block" style="background-image: url(demo/faces/female/21.jpg)"></span>
+                                    <span class="avatar avatar-md d-block" style="background-image: url(./demo/faces/female/21.jpg)"></span>
                                 </div>
                                 <div class="col">
                                     <div>
@@ -983,7 +983,7 @@
                             <li class="list-separated-item">
                                 <div class="row align-items-center">
                                 <div class="col-auto">
-                                    <span class="avatar avatar-md d-block" style="background-image: url(demo/faces/female/29.jpg)"></span>
+                                    <span class="avatar avatar-md d-block" style="background-image: url(./demo/faces/female/29.jpg)"></span>
                                 </div>
                                 <div class="col">
                                     <div>
@@ -1008,7 +1008,7 @@
                             <li class="list-separated-item">
                                 <div class="row align-items-center">
                                 <div class="col-auto">
-                                    <span class="avatar avatar-md d-block" style="background-image: url(demo/faces/female/2.jpg)"></span>
+                                    <span class="avatar avatar-md d-block" style="background-image: url(./demo/faces/female/2.jpg)"></span>
                                 </div>
                                 <div class="col">
                                     <div>
@@ -1033,7 +1033,7 @@
                             <li class="list-separated-item">
                                 <div class="row align-items-center">
                                 <div class="col-auto">
-                                    <span class="avatar avatar-md d-block" style="background-image: url(demo/faces/male/34.jpg)"></span>
+                                    <span class="avatar avatar-md d-block" style="background-image: url(./demo/faces/male/34.jpg)"></span>
                                 </div>
                                 <div class="col">
                                     <div>
@@ -1058,7 +1058,7 @@
                             <li class="list-separated-item">
                                 <div class="row align-items-center">
                                 <div class="col-auto">
-                                    <span class="avatar avatar-md d-block" style="background-image: url(demo/faces/female/11.jpg)"></span>
+                                    <span class="avatar avatar-md d-block" style="background-image: url(./demo/faces/female/11.jpg)"></span>
                                 </div>
                                 <div class="col">
                                     <div>

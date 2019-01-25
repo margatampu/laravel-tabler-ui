@@ -32,7 +32,6 @@
         <script src="{{ mix('/js/manifest.js') }}" charset="utf-8"></script>
         <script src="{{ mix('/js/vendor.js') }}" charset="utf-8"></script>
         <script src="{{ mix('/js/app.js') }}" charset="utf-8"></script>
-        <script src="{{ mix('/js/c3.js') }}" charset="utf-8"></script>
     @show
     </head>
 

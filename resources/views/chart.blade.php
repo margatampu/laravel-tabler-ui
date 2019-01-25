@@ -1,5 +1,11 @@
 @extends('layouts.app')
 
+@section('scripts')
+    @parent
+
+    <script src="{{ mix('/js/c3.js') }}" charset="utf-8"></script>
+@endsection
+
 @section('content')
 <div class="my-3 my-md-5">
     <div class="container">

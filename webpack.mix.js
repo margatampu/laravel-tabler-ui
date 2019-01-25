@@ -37,6 +37,15 @@ mix.scripts(
     "public/js/c3.js"
 );
 
+mix.scripts(
+    [
+        "resources/js/jquery-jvectormap-2.0.3.min.js",
+        "resources/js/jquery-jvectormap-de-merc.js",
+        "resources/js/jquery-jvectormap-world-mill.js"
+    ],
+    "public/js/jvectormap.js"
+);
+
 mix.autoload({
     jquery: ["$", "jQuery", "jquery", "window.jQuery"]
 });
@@ -49,7 +58,7 @@ mix.extract(
         // "bootstrap-sass",
         // 'chart.js',
         "jquery-circle-progress",
-        // 'jvectormap',
+        // "jvectormap",
         // 'moment',
         // "requirejs/require",
         // 'select2',

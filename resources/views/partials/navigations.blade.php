@@ -14,11 +14,11 @@
         <li class="nav-item dropdown">
             <a href="#" class="nav-link" data-toggle="dropdown"><i class="fe fe-calendar"></i> Components</a>
             <div class="dropdown-menu dropdown-menu-arrow">
-                <a href="./maps.html" class="dropdown-item ">Maps</a>
-                <a href="./icons.html" class="dropdown-item ">Icons</a>
-                <a href="./store.html" class="dropdown-item ">Store</a>
-                <a href="./blog.html" class="dropdown-item ">Blog</a>
-                <a href="./carousel.html" class="dropdown-item ">Carousel</a>
+                <a href="{{ route('map') }}" class="dropdown-item ">Maps</a>
+                <a href="{{ route('icon') }}" class="dropdown-item ">Icons</a>
+                <a href="{{ route('store') }}" class="dropdown-item ">Store</a>
+                <a href="{{ route('blog') }}" class="dropdown-item ">Blog</a>
+                <a href="{{ route('carousel') }}" class="dropdown-item ">Carousel</a>
             </div>
         </li>
         <li class="nav-item dropdown">

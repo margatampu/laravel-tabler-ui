@@ -15,6 +15,7 @@ Route::get('/', function () {
     return view('index');
 })->name('home');
 
+// Interface Pages
 Route::get('/cards', function () {
     return view('card');
 })->name('card');
@@ -26,6 +27,27 @@ Route::get('/charts', function () {
 Route::get('/prices', function () {
     return view('price');
 })->name('price');
+
+// Component Pages
+Route::get('/maps', function () {
+    return view('map');
+})->name('map');
+
+Route::get('/icons', function () {
+    return view('icon');
+})->name('icon');
+
+Route::get('/stores', function () {
+    return view('store');
+})->name('store');
+
+Route::get('/blogs', function () {
+    return view('blog');
+})->name('blog');
+
+Route::get('/carousels', function () {
+    return view('carousel');
+})->name('carousel');
 
 Route::get('/forms', function () {
     return view('form');

@@ -49,6 +49,55 @@ Route::get('/carousels', function () {
     return view('carousel');
 })->name('carousel');
 
+// Pages
+Route::get('/profiles', function () {
+    return view('profile');
+})->name('profile');
+
+Route::get('/login', function () {
+    return view('login');
+})->name('login');
+
+Route::get('/register', function () {
+    return view('register');
+})->name('register');
+
+Route::get('/forgot', function () {
+    return view('forgot');
+})->name('forgot');
+
+Route::get('/400', function () {
+    return view('400');
+})->name('400');
+
+Route::get('/401', function () {
+    return view('401');
+})->name('401');
+
+Route::get('/403', function () {
+    return view('403');
+})->name('403');
+
+Route::get('/404', function () {
+    return view('404');
+})->name('404');
+
+Route::get('/500', function () {
+    return view('500');
+})->name('500');
+
+Route::get('/503', function () {
+    return view('503');
+})->name('503');
+
+Route::get('/email', function () {
+    return view('email');
+})->name('email');
+
+Route::get('/empty', function () {
+    return view('empty');
+})->name('empty');
+
 Route::get('/forms', function () {
     return view('form');
 })->name('form');

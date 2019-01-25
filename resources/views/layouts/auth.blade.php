@@ -1,6 +1,6 @@
 
 <!doctype html>
-<html lang="{{ str_replace('_', '-', app()->getLocale()) }}" dir="ltr">
+<html lang="{{ str_replace('_', '-', app()->getLocale()) }}">
     <head>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
@@ -27,23 +27,13 @@
         <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,300i,400,400i,500,500i,600,600i,700,700i&amp;subset=latin-ext">
         <link href="{{ mix('/css/app.css') }}" rel="stylesheet">
     @show
-
-    @section('scripts')
-        <script src="{{ mix('/js/manifest.js') }}" charset="utf-8"></script>
-        <script src="{{ mix('/js/vendor.js') }}" charset="utf-8"></script>
-        <script src="{{ mix('/js/app.js') }}" charset="utf-8"></script>
-    @show
     </head>
 
     <body>
         <div class="page">
-            <div class="page-main">
-                @include('layouts.header')
-                
+            <div class="page-single">
                 @yield('content')
             </div>
-
-            @include('layouts.footer')
         </div>
     </body>
 </html>

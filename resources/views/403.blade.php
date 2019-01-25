@@ -1,8 +1,7 @@
-
 <!doctype html>
-<html lang="{{ str_replace('_', '-', app()->getLocale()) }}" dir="ltr">
+<html lang="en" dir="ltr">
     <head>
-        <meta charset="UTF-8">
+    <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
         <meta http-equiv="X-UA-Compatible" content="ie=edge">
         <meta http-equiv="Content-Language" content="en" />
@@ -27,23 +26,19 @@
         <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,300i,400,400i,500,500i,600,600i,700,700i&amp;subset=latin-ext">
         <link href="{{ mix('/css/app.css') }}" rel="stylesheet">
     @show
-
-    @section('scripts')
-        <script src="{{ mix('/js/manifest.js') }}" charset="utf-8"></script>
-        <script src="{{ mix('/js/vendor.js') }}" charset="utf-8"></script>
-        <script src="{{ mix('/js/app.js') }}" charset="utf-8"></script>
-    @show
     </head>
-
-    <body>
+    <body class="">
         <div class="page">
-            <div class="page-main">
-                @include('layouts.header')
-                
-                @yield('content')
+            <div class="page-content">
+                <div class="container text-center">
+                    <div class="display-1 text-muted mb-5"><i class="si si-exclamation"></i> 403</div>
+                    <h1 class="h2 mb-3">Oops.. You just found an error page..</h1>
+                    <p class="h4 text-muted font-weight-normal mb-7">We are sorry but you are not authorized to access this page&hellip;</p>
+                    <a class="btn btn-primary" href="javascript:history.back()">
+                    <i class="fe fe-arrow-left mr-2"></i>Go back
+                    </a>
+                </div>
             </div>
-
-            @include('layouts.footer')
         </div>
     </body>
 </html>
